@@ -1,10 +1,10 @@
 {
-  "Title": "❌ فورررری اختلال اینترنت ملی 😱😱🔥 ",
-  "Description": "بزودی اینترنت ملی میشه و اختلال زیادی هست ، فورا عضو کانال تلگرام بشو تا دسترسیت به اینترنت قطع نشه 👇🏻👇🏻👇🏻",
-  "Link": "tg://join?invite=SxBfGxchAVQ0NTZk",
-  "ColorWave": "#ffff00",
+  "Title": "کانفیگ V2Ray و هیدیفای نامحدود",
+  "Description": "با کمتر از پول یه قهوه  = 48 ت خودتو از فیلترشکن بی نیاز کن ، اول رایگان تستش کن ، بعد بخر ، دسترسی همزمان به کشورهای 🇺🇸🇬🇧🇳🇱🇹🇷🇩🇪 با حجم نامحدود 😍👇🏻 (با ضمانت تیم ما)",
+  "Link": "https://t.me/GreenNetwoorkBot?start=free_5augpop_sh",
+  "ColorWave": "#7C4DFF",
   "Color": "#ffa500",
-  "ColorWaveTwo": "#ff6e40",
+  "ColorWaveTwo": "#B388FF",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -14,11 +14,11 @@
   "ColorBtnBg": "#00a043",
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "true",
-  "MessageID": "39280000283",
+  "Cancellable": "false",
+  "MessageID": "360200416",
   "ShowTime": "3",
-  "Button": " عضویت اجباری ",
-  "ButtonCancell": " نمیخوام ",
+  "Button": " دریافت تست رایگان ",
+  "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
 }
